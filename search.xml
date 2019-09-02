@@ -1,67 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>首记</title>
-      <link href="/2019/09/02/%E9%A6%96%E8%AE%B0/"/>
-      <url>/2019/09/02/%E9%A6%96%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[<p>终于，自己的 <code>Hexo</code> 小站算是基本施工完毕了。虽然还有评论和统计功能没有装载，不过这似乎需要网站有一个永久域名，甚至还要进行备案，遂作罢。如果接下来这个小站我有认真使用的话，那购买一个域名其实也是可以考虑的啦。</p><p>一直来都想写点东西。自己平时不着边际的想法并不少，但鲜有落成文字。把这些想法念头一个一个抓下来，赋予形体，本身就会是一件挺有意义的事。想来应该也会对自己的思考有帮助。年少时没有写日记的习惯，最大的原因自然是因为懒。但偏偏自己又是一个怀旧的人，这就使得有时回想过去，会发觉总是朦朦胧胧，仿佛隔着一层布满灰尘的窗户一般。希望现在开始的手记，能在将来无聊翻看的时候，留下一点印记。</p><p>已经很久没有怎么动笔了，最近的作文体验已经是数月前和队友一起草拟辩论稿。现在写起来真是思绪翻飞，却又不知所云。开一个新网站来写东西，算来也是我大学以来又给自己开的一个新坑。所谓的“恒立志”，说的就是我这种人。大学两年来，有过许多想法，无一不是浅尝辄止。什么读诗词，练字，练游泳，了解哲学，都没有能够坚持。庆幸的是，这些照进我生命的微光也的确使我有了不同。希望接下来想要做的事情，可以好好的做下去。</p><p>这个时间点其实也挺奇妙。刚刚考完GRE，弄了个踩线刚刚好能用的分数。虽然也许可以做得更好，不过此事也算暂告一段落。马上新的学期就要开始了，立Flag的冲动真是在胸中不断涌动。然而也有许多事情则是应该踏实认真做好的。现下盘算，大致按照重要性和紧急性来排练的话，应该有：</p><ul><li>GRE-Sub 和 本研</li><li>TOFEL备考和专业课学习</li><li>申请2020年暑研</li><li>加入南粤社团，成为粤语练习生</li><li>完成100部/年的观影目标</li><li>学习日语</li></ul><p>这么些事情的确够我接下来的四个月好好折腾了。其中呢，还有几件事情则是要好好坚持下去的：<strong>健身</strong>，<strong>台球</strong>，<strong>码文</strong>。定个小目标，希望这个学期可以增重5斤，让台球队继续光大，写满10篇博文。接下来可要努力啦！</p><p>最后呢，还有一个贪心不足蛇吞象环节，我还想这个学期呢，再看一点书，做些阅读。目前确定的就是《物理学咬文嚼字》和《中国古代文化常识》啦。若有余力，《佛教常识问答》也可以安排上！</p><hr><p>在搭建网站的时候，看到live2d插件的作者<a href="https://eyhn.in/" target="_blank" rel="noopener">EYHN</a> 尚时年19，不禁又感叹自己真是虚度年华。希望接下来的时光，自己好好走过吧！</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title><![CDATA[首记]]></title>
+    <url>%2F2019%2F09%2F02%2F%E9%A6%96%E8%AE%B0%2F</url>
+    <content type="text"><![CDATA[终于，自己的 Hexo 小站算是基本施工完毕了。虽然还有评论和统计功能没有装载，不过这似乎需要网站有一个永久域名，甚至还要进行备案，遂作罢。如果接下来这个小站我有认真使用的话，那购买一个域名其实也是可以考虑的啦。 一直来都想写点东西。自己平时不着边际的想法并不少，但鲜有落成文字。把这些想法念头一个一个抓下来，赋予形体，本身就会是一件挺有意义的事。想来应该也会对自己的思考有帮助。年少时没有写日记的习惯，最大的原因自然是因为懒。但偏偏自己又是一个怀旧的人，这就使得有时回想过去，会发觉总是朦朦胧胧，仿佛隔着一层布满灰尘的窗户一般。希望现在开始的手记，能在将来无聊翻看的时候，留下一点印记。 已经很久没有怎么动笔了，最近的作文体验已经是数月前和队友一起草拟辩论稿。现在写起来真是思绪翻飞，却又不知所云。开一个新网站来写东西，算来也是我大学以来又给自己开的一个新坑。所谓的“恒立志”，说的就是我这种人。大学两年来，有过许多想法，无一不是浅尝辄止。什么读诗词，练字，练游泳，了解哲学，都没有能够坚持。庆幸的是，这些照进我生命的微光也的确使我有了不同。希望接下来想要做的事情，可以好好的做下去。 这个时间点其实也挺奇妙。刚刚考完GRE，弄了个踩线刚刚好能用的分数。虽然也许可以做得更好，不过此事也算暂告一段落。马上新的学期就要开始了，立Flag的冲动真是在胸中不断涌动。然而也有许多事情则是应该踏实认真做好的。现下盘算，大致按照重要性和紧急性来排练的话，应该有： GRE-Sub 和 本研 TOFEL备考和专业课学习 申请2020年暑研 加入南粤社团，成为粤语练习生 完成100部/年的观影目标 学习日语 这么些事情的确够我接下来的四个月好好折腾了。其中呢，还有几件事情则是要好好坚持下去的：健身，台球，码文。定个小目标，希望这个学期可以增重5斤，让台球队继续光大，写满10篇博文。接下来可要努力啦！ 最后呢，还有一个贪心不足蛇吞象环节，我还想这个学期呢，再看一点书，做些阅读。目前确定的就是《物理学咬文嚼字》和《中国古代文化常识》啦。若有余力，《佛教常识问答》也可以安排上！ 在搭建网站的时候，看到live2d插件的作者EYHN 尚时年19，不禁又感叹自己真是虚度年华。希望接下来的时光，自己好好走过吧！]]></content>
       <categories>
-          
-          <category> 日记 </category>
-          
+        <category>日记</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> 生活 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
-    
-    
-    <entry>
-      <title></title>
-      <link href="/404.html"/>
-      <url>/404.html</url>
-      
-        <content type="html"><![CDATA[<!DOCTYPE HTML><html><head><meta name="generator" content="Hexo 3.9.0">    <meta http-equiv="content-type" content="text/html;charset=utf-8;">    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    <meta name="robots" content="all">    <meta name="robots" content="index,follow">    <link rel="stylesheet" type="text/css" href="https://qzone.qq.com/gy/404/style/404style.css"></head><body>    <script type="text/plain" src="http://www.qq.com/404/search_children.js" charset="utf-8" homepageurl="/" homepagename="回到我的主页">  </script>    <script src="https://qzone.qq.com/gy/404/data.js" charset="utf-8"></script>    <script src="https://qzone.qq.com/gy/404/page.js" charset="utf-8"></script><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body></html>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-  
+      <tags>
+        <tag>生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>%2F404.html</url>
+    <content type="text"><![CDATA[L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[标签]]></title>
+    <url>%2Ftags%2Findex.html</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[时间流]]></title>
+    <url>%2Ftimestream%2Findex.html</url>
+    <content type="text"><![CDATA[2019年9月 9月2日 尝试添加了时间流页面，这里就用来作为写札记和随笔的地方啦。也把首记当作第一篇吧。]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[分类]]></title>
+    <url>%2Fcategories%2Findex.html</url>
+    <content type="text"></content>
+  </entry>
 </search>
