@@ -1,45 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[CMSDAS2019之后]]></title>
-    <url>%2F2019%2F12%2F14%2FCMSDAS2019%E4%B9%8B%E5%90%8E%2F</url>
-    <content type="text"><![CDATA[再一次打开这个站点，不禁惊叹于积灰之厚之深。到底自己还是没有写日记的习惯，倒头来这么久了才开始写第二篇，甚至一开始连网站的网址都不记得了。这段时间其实发生了不少事，也有一些感想。但在碎碎念之前，不妨对照一下之前想好的计划，看看这差不多做一半丢一半Flag都是什么情况： GRE-sub搞定了，本研什么名堂都没有。 TOFEL根本没准备，幸好还在四个月之后，尚能抢救一番。专业课学得还将就，就看期末复习能如何。 明年暑假的计划倒是有了，前期准备的前期准备正在紧锣密鼓的准备中。 加入了南粤社团，似乎也没什么活动，粤语没有多大进步。 100部/年的观影目标眼看着是没办法完成了，估摸着最后会收敛在95上。 学习日语这个Flag就别提了 … 何でもない 最想记录的事情，是这周参加的CMSDAS。尽管已经结束了，但我仍然不得不感叹这一切的巧合与突然。因为怀揣着对明年暑假小小期盼的我，联系了学校的老师，没曾想居然机缘巧合，碰上了在DAS开始的前两天！更有意思的是，老师正是这一次的总负责人，而项目又正好还有一个空余的名额。于是我便捡了个大便宜，参与其中。 短短的五天，我第一次接触了Linux和root，感受了CMS上的实验学家是如何思考物理、分析数据的。虽然真正学到手的东西并不多，毕竟时间十分有限。但对我最大的影响便是开拓了眼界。同时，还认识了温柔幽默而富有耐心的Patrick。不禁让我思考自己何时能修得如此境界。 这里附上一张Patrick的帅照 仍然感慨一句自己的文笔真的退步太多了，以及我真的是太懒了，对将脑海里的想法落成文字实在是抗拒。所以写个这样的小记都如此杂乱无章，希望伴随着练习能够逐渐找回感觉吧。]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>CMSDAS2019之后</title>
+      <link href="/2019/12/14/CMSDAS2019%E4%B9%8B%E5%90%8E/"/>
+      <url>/2019/12/14/CMSDAS2019%E4%B9%8B%E5%90%8E/</url>
+      
+        <content type="html"><![CDATA[<p>再一次打开这个站点，不禁惊叹于积灰之厚之深。到底自己还是没有写日记的习惯，倒头来这么久了才开始写第二篇，甚至一开始连网站的网址都不记得了。这段时间其实发生了不少事，也有一些感想。但在碎碎念之前，不妨对照一下之前想好的计划，看看这差不多做一半丢一半Flag都是什么情况：</p><ul><li>GRE-sub搞定了，本研什么名堂都没有。</li><li>TOFEL根本没准备，幸好还在四个月之后，尚能抢救一番。专业课学得还将就，就看期末复习能如何。</li><li>明年暑假的计划倒是有了，前期准备的前期准备正在紧锣密鼓的准备中。</li><li>加入了南粤社团，似乎也没什么活动，粤语没有多大进步。</li><li>100部/年的观影目标眼看着是没办法完成了，估摸着最后会收敛在95上。</li><li>学习日语这个Flag就别提了 … 何でもない</li></ul><hr><p>最想记录的事情，是这周参加的CMSDAS。尽管已经结束了，但我仍然不得不感叹这一切的巧合与突然。因为怀揣着对明年暑假小小期盼的我，联系了学校的老师，没曾想居然机缘巧合，碰上了在DAS开始的前两天！更有意思的是，老师正是这一次的总负责人，而项目又正好还有一个空余的名额。于是我便捡了个大便宜，参与其中。</p><p>短短的五天，我第一次接触了Linux和root，感受了CMS上的实验学家是如何思考物理、分析数据的。虽然真正学到手的东西并不多，毕竟时间十分有限。但对我最大的影响便是开拓了眼界。同时，还认识了温柔幽默而富有耐心的Patrick。不禁让我思考自己何时能修得如此境界。</p><p>这里附上一张Patrick的帅照</p><img src="/2019/12/14/CMSDAS2019之后/Patrick.jpg"><hr><p>仍然感慨一句自己的文笔真的退步太多了，以及我真的是太懒了，对将脑海里的想法落成文字实在是抗拒。所以写个这样的小记都如此杂乱无章，希望伴随着练习能够逐渐找回感觉吧。</p>]]></content>
+      
+      
       <categories>
-        <category>学习</category>
+          
+          <category> 学习 </category>
+          
       </categories>
-      <tags>
-        <tag>学习 CMS</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[首记]]></title>
-    <url>%2F2019%2F09%2F02%2F%E9%A6%96%E8%AE%B0%2F</url>
-    <content type="text"><![CDATA[终于，自己的 Hexo 小站算是基本施工完毕了。虽然还有评论和统计功能没有装载，不过这似乎需要网站有一个永久域名，甚至还要进行备案，遂作罢。如果接下来这个小站我有认真使用的话，那购买一个域名其实也是可以考虑的啦。 一直来都想写点东西。自己平时不着边际的想法并不少，但鲜有落成文字。把这些想法念头一个一个抓下来，赋予形体，本身就会是一件挺有意义的事。想来应该也会对自己的思考有帮助。年少时没有写日记的习惯，最大的原因自然是因为懒。但偏偏自己又是一个怀旧的人，这就使得有时回想过去，会发觉总是朦朦胧胧，仿佛隔着一层布满灰尘的窗户一般。希望现在开始的手记，能在将来无聊翻看的时候，留下一点印记。 已经很久没有怎么动笔了，最近的作文体验已经是数月前和队友一起草拟辩论稿。现在写起来真是思绪翻飞，却又不知所云。开一个新网站来写东西，算来也是我大学以来又给自己开的一个新坑。所谓的“恒立志”，说的就是我这种人。大学两年来，有过许多想法，无一不是浅尝辄止。什么读诗词，练字，练游泳，了解哲学，都没有能够坚持。庆幸的是，这些照进我生命的微光也的确使我有了不同。希望接下来想要做的事情，可以好好的做下去。 这个时间点其实也挺奇妙。刚刚考完GRE，弄了个踩线刚刚好能用的分数。虽然也许可以做得更好，不过此事也算暂告一段落。马上新的学期就要开始了，立Flag的冲动真是在胸中不断涌动。然而也有许多事情则是应该踏实认真做好的。现下盘算，大致按照重要性和紧急性来排练的话，应该有： GRE-Sub 和 本研 TOFEL备考和专业课学习 申请2020年暑研 加入南粤社团，成为粤语练习生 完成100部/年的观影目标 学习日语 这么些事情的确够我接下来的四个月好好折腾了。其中呢，还有几件事情则是要好好坚持下去的：健身，台球，码文。定个小目标，希望这个学期可以增重5斤，让台球队继续光大，写满10篇博文。接下来可要努力啦！ 最后呢，还有一个贪心不足蛇吞象环节，我还想这个学期呢，再看一点书，做些阅读。目前确定的就是《物理学咬文嚼字》和《中国古代文化常识》啦。若有余力，《佛教常识问答》也可以安排上！ 在搭建网站的时候，看到live2d插件的作者EYHN 尚时年19，不禁又感叹自己真是虚度年华。希望接下来的时光，自己好好走过吧！]]></content>
+      
+      
+        <tags>
+            
+            <tag> 学习 CMS </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>首记</title>
+      <link href="/2019/09/02/%E9%A6%96%E8%AE%B0/"/>
+      <url>/2019/09/02/%E9%A6%96%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<p>终于，自己的 <code>Hexo</code> 小站算是基本施工完毕了。虽然还有评论和统计功能没有装载，不过这似乎需要网站有一个永久域名，甚至还要进行备案，遂作罢。如果接下来这个小站我有认真使用的话，那购买一个域名其实也是可以考虑的啦。</p><p>一直来都想写点东西。自己平时不着边际的想法并不少，但鲜有落成文字。把这些想法念头一个一个抓下来，赋予形体，本身就会是一件挺有意义的事。想来应该也会对自己的思考有帮助。年少时没有写日记的习惯，最大的原因自然是因为懒。但偏偏自己又是一个怀旧的人，这就使得有时回想过去，会发觉总是朦朦胧胧，仿佛隔着一层布满灰尘的窗户一般。希望现在开始的手记，能在将来无聊翻看的时候，留下一点印记。</p><p>已经很久没有怎么动笔了，最近的作文体验已经是数月前和队友一起草拟辩论稿。现在写起来真是思绪翻飞，却又不知所云。开一个新网站来写东西，算来也是我大学以来又给自己开的一个新坑。所谓的“恒立志”，说的就是我这种人。大学两年来，有过许多想法，无一不是浅尝辄止。什么读诗词，练字，练游泳，了解哲学，都没有能够坚持。庆幸的是，这些照进我生命的微光也的确使我有了不同。希望接下来想要做的事情，可以好好的做下去。</p><p>这个时间点其实也挺奇妙。刚刚考完GRE，弄了个踩线刚刚好能用的分数。虽然也许可以做得更好，不过此事也算暂告一段落。马上新的学期就要开始了，立Flag的冲动真是在胸中不断涌动。然而也有许多事情则是应该踏实认真做好的。现下盘算，大致按照重要性和紧急性来排练的话，应该有：</p><ul><li>GRE-Sub 和 本研</li><li>TOFEL备考和专业课学习</li><li>申请2020年暑研</li><li>加入南粤社团，成为粤语练习生</li><li>完成100部/年的观影目标</li><li>学习日语</li></ul><p>这么些事情的确够我接下来的四个月好好折腾了。其中呢，还有几件事情则是要好好坚持下去的：<strong>健身</strong>，<strong>台球</strong>，<strong>码文</strong>。定个小目标，希望这个学期可以增重5斤，让台球队继续光大，写满10篇博文。接下来可要努力啦！</p><p>最后呢，还有一个贪心不足蛇吞象环节，我还想这个学期呢，再看一点书，做些阅读。目前确定的就是《物理学咬文嚼字》和《中国古代文化常识》啦。若有余力，《佛教常识问答》也可以安排上！</p><hr><p>在搭建网站的时候，看到live2d插件的作者<a href="https://eyhn.in/" target="_blank" rel="noopener">EYHN</a> 尚时年19，不禁又感叹自己真是虚度年华。希望接下来的时光，自己好好走过吧！</p>]]></content>
+      
+      
       <categories>
-        <category>日记</category>
+          
+          <category> 日记 </category>
+          
       </categories>
-      <tags>
-        <tag>生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title></title>
-    <url>%2F404.html</url>
-    <content type="text"><![CDATA[L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});]]></content>
-  </entry>
-  <entry>
-    <title><![CDATA[分类]]></title>
-    <url>%2Fcategories%2Findex.html</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[标签]]></title>
-    <url>%2Ftags%2Findex.html</url>
-    <content type="text"></content>
-  </entry>
-  <entry>
-    <title><![CDATA[时间流]]></title>
-    <url>%2Ftimestream%2Findex.html</url>
-    <content type="text"><![CDATA[2019年12月 12月15日 看了B站上的《但是还有书籍》，对《郑天挺的西南联大日记》 很感兴趣，有机会买来拜读。 12月17日 今天正式从原来的课题小组退出了，并且也决定加入新的小组中。我一直不是一个果断决定的人，也深受其扰。这一次的转换，我相信会带来不同。我也会全力以赴去做好这一次的课题。 10月 10月1日 今天想写的东西其实挺多，毕竟隔了这么久。这段时间其实有些许灵感，想要落笔成文，但终究因为懒惰而只停留于空想。不仅如此，就连功课也不认真了。恰逢今日又收到了过去寄来的信，看来算是一个小节点提醒自己重新整顿了。人总是要依赖一些外部的东西，来强化或者隐藏自己内心的意愿，我也没能免于此。希望接下来可以更加坦诚面对自己吧。最后，值得高兴的是，增重了一点点，有进步。 9月 9月2日 尝试添加了时间流页面，这里就用来作为写札记和随笔的地方啦。也把首记当作第一篇吧。 9月7日 今天算是基本背完了五十音图了，在日语学习的路上迈出了一小步。接下来要不断巩固，然后学一些日常用语。只不过这几天忙开学，想写的一篇东西一直拖着，现在感觉也没有了。希望下一次有想法的时候可以紧紧抓住！]]></content>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> 生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title></title>
+      <link href="/404.html"/>
+      <url>/404.html</url>
+      
+        <content type="html"><![CDATA[<!DOCTYPE HTML><html><head><meta name="generator" content="Hexo 3.9.0">    <meta http-equiv="content-type" content="text/html;charset=utf-8;">    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    <meta name="robots" content="all">    <meta name="robots" content="index,follow">    <link rel="stylesheet" type="text/css" href="https://qzone.qq.com/gy/404/style/404style.css"></head><body>    <script type="text/plain" src="http://www.qq.com/404/search_children.js" charset="utf-8" homepageurl="/" homepagename="回到我的主页">  </script>    <script src="https://qzone.qq.com/gy/404/data.js" charset="utf-8"></script>    <script src="https://qzone.qq.com/gy/404/page.js" charset="utf-8"></script><script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body></html>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>时间流</title>
+      <link href="/timestream/index.html"/>
+      <url>/timestream/index.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="2019年"><a href="#2019年" class="headerlink" title="2019年"></a>2019年</h2><h3 id="12月"><a href="#12月" class="headerlink" title="12月"></a>12月</h3><ul><li><p>12月15日 看了B站上的<a href="https://www.bilibili.com/bangumi/media/md28220315" target="_blank" rel="noopener">《但是还有书籍》</a>，对<a href="https://book.douban.com/subject/27623676/" target="_blank" rel="noopener">《郑天挺的西南联大日记》</a> 很感兴趣，有机会买来拜读。</p></li><li><p>12月17日 今天正式从原来的课题小组退出了，并且也决定加入新的小组中。我一直不是一个果断决定的人，也深受其扰。这一次的转换，我相信会带来不同。我也会全力以赴去做好这一次的课题。</p></li></ul><h3 id="10月"><a href="#10月" class="headerlink" title="10月"></a>10月</h3><ul><li>10月1日 今天想写的东西其实挺多，毕竟隔了这么久。这段时间其实有些许灵感，想要落笔成文，但终究因为懒惰而只停留于空想。不仅如此，就连功课也不认真了。恰逢今日又收到了过去寄来的信，看来算是一个小节点提醒自己重新整顿了。人总是要依赖一些外部的东西，来强化或者隐藏自己内心的意愿，我也没能免于此。希望接下来可以更加坦诚面对自己吧。最后，值得高兴的是，增重了一点点，有进步。</li></ul><h3 id="9月"><a href="#9月" class="headerlink" title="9月"></a>9月</h3><ul><li><p>9月2日   尝试添加了时间流页面，这里就用来作为写札记和随笔的地方啦。也把<a href="https://phym73.github.io/2019/09/02/%E9%A6%96%E8%AE%B0/" target="_blank" rel="noopener">首记</a>当作第一篇吧。</p></li><li><p>9月7日   今天算是基本背完了五十音图了，在日语学习的路上迈出了一小步。接下来要不断巩固，然后学一些日常用语。只不过这几天忙开学，想写的一篇东西一直拖着，现在感觉也没有了。希望下一次有想法的时候可以紧紧抓住！</p></li></ul>]]></content>
+      
+    </entry>
+    
+    
+  
 </search>
